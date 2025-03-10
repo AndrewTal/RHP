@@ -1,7 +1,7 @@
 # Rapid Histopathology Pre-training (RHP)
 The official code of 《Efficient Multi-Stage Self-Supervised Learning for Pathology Image Analysis via Masking》
 
-![frameowork](./framework.png)
+![framework](./framework.png)
 
 
 # Installation
